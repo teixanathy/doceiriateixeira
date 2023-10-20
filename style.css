@@ -5,6 +5,8 @@
 }
 
 .principal {
- background-color: aqua;
+
+ background-image: linear-gradient( rgb(255, 163, 209),aqua);
  text-align: center;
+
 }
